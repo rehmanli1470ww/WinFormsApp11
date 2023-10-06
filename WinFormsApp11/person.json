@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Rubail",
+    "Surname": "Rehmanli",
+    "Fname": "Refail",
+    "Country": "Azerbaycan",
+    "City": "Qebele",
+    "Phone": "077 213 57 77",
+    "Date": "1995-01-03T21:46:21",
+    "Gender": "Kisi"
+  },
+  {
+    "Name": "Rubail",
+    "Surname": "Rehmanli",
+    "Fname": "Refail",
+    "Country": "Azerbaycan",
+    "City": "Qebele",
+    "Phone": "077 213 57 77",
+    "Date": "1995-01-03T21:46:21",
+    "Gender": "Kisi"
+  },
+  {
+    "Name": "Cavid",
+    "Surname": "Atamanoglanov",
+    "Fname": "Shahlar",
+    "Country": "Azerbaycanli",
+    "City": "Imisli",
+    "Phone": "055 555 55 55",
+    "Date": "1996-01-06T21:49:06",
+    "Gender": "Qadin"
+  },
+  {
+    "Name": "Ha",
+    "Surname": "As",
+    "Fname": "Sa",
+    "Country": "Da",
+    "City": "We",
+    "Phone": "077 777 77 77",
+    "Date": "2023-10-06T22:15:24.6608974+04:00",
+    "Gender": "Qadin"
+  }
+]
